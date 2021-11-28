@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+.logowanie {
+    font-family: sans-serif;
+    background-color: antiquewhite;
+    padding-top: 1%;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    text-align: center;
+    padding-bottom: 1%;
+    border-radius: 20px;
+}
+.rejestracja{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color: rgb(134, 97, 48);
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border-radius: 20px;
+}
+.przycisk{
+
+    background-color: #b3b3b3; /* Green */
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+
+
+
+}
