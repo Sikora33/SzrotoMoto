@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+.miniatura {
+    height: 3%;
+    width: 3%;
+ }
+
+ .logreg {
+    background-color: aquamarine;
+    color: blueviolet;
+    text-align: center;
+    border-radius: 20px;
+    width: 250px;
+    height: 10%;
+    
+ }
+ .glowna {
+     background-color: brown;
+     padding: 0px;
+     
+ }
