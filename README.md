@@ -1,2 +1,2 @@
 # SzrotoMoto
-koza
+ghg
